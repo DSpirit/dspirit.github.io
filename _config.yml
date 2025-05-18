@@ -26,13 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "dspirit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: DSpirit
 linkedin_username: wendelin-niesl-676442138
-stackoverflow_username: 4274636/dspirit
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-openmoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
