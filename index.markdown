@@ -3,12 +3,29 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
 
-# dsdev - Wendelin's Blog
+# Wendelin Niesl
 
-Hi, I'm Wendelin!
+## Cloud Solution Architect & .NET Developer
 
-As a Cloud Solution Architect specializing in C# and modern Microsoft technologies, I design scalable and maintainable solutions in the cloud. I'm passionate about domain-driven design, using it to model complex business processes and create sustainable software architectures.
+I'm a Cloud Solution Architect specializing in Microsoft Azure and .NET technologies, with extensive experience in building robust, scalable cloud solutions. With a focus on domain-driven design and clean architecture, I help organizations transform their business requirements into efficient technical implementations.
 
-I'm passionate about platform engineering and DevOps, and I love to share my knowledge with the community. I believe in the power of open source and collaboration, and I'm always looking for new ways to contribute and learn from others.
+### What I Do
+
+- **Cloud Architecture & Design**: Designing scalable and resilient cloud solutions on Microsoft Azure
+- **Backend Development**: Building robust applications with C# and .NET
+- **Domain-Driven Design**: Implementing complex business domains with clean, maintainable architectures
+- **API Development & Integration**: Creating and consuming REST APIs, including Spotify API integration
+- **DevOps & Platform Engineering**: Implementing CI/CD pipelines and infrastructure as code
+
+### Recent Projects
+
+- **AutoBlogger**: An automated content generation and publishing system utilizing AI and Spotify APIs
+- **Azure Functions Isolated Worker**: Migration and optimization of serverless workloads to .NET 8
+- **Domain-Driven Microservices**: Implementation of event-driven architecture for distributed systems
+
+[Learn more about my projects](/projects)
+
+### Latest Articles

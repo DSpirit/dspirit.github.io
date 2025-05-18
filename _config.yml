@@ -18,19 +18,40 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: wendelin.me
-email: wendelin.niesl<at>gmail.com
+title: Wendelin Niesl
+email: wendelin.niesl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Wendelin Niesl's personal blog. I write about software development, cloud solution architectures, and other topics that interest me.
+  Cloud Solution Architect | .NET & C# | Domain-driven Design | Spotify API Integration
+  Sharing insights and best practices in cloud architecture, DevOps, and platform engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "dspirit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dspirit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: DSpirit
 linkedin_username: wendelin-niesl-676442138
+twitter_username: wendelinniesl
+
+# Author Settings
+author:
+  name: Wendelin Niesl
+  bio: Cloud Solution Architect specializing in .NET, cloud architecture, and platform engineering.
+  location: Germany
+
+# SEO Settings
+lang: en
+timezone: Europe/Berlin
+google_analytics: # Add your Google Analytics ID here
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - about.markdown
+  - projects.markdown
+  - blog.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -40,14 +61,10 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
