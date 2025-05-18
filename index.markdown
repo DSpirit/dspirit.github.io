@@ -6,9 +6,12 @@ layout: home
 title: Home
 ---
 
-# Wendelin Niesl
+## Wendelin | Cloud Solution Architect & Platform Engineer
 
-## Cloud Solution Architect & .NET Developer
+![Wendelin Niesl](https://avatars.githubusercontent.com/u/12340489?v=4)
+
+![GitHub followers](https://img.shields.io/github/followers/DSpirit?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/DSpirit?style=social)
 
 I'm a Cloud Solution Architect specializing in Microsoft Azure and .NET technologies, with extensive experience in building robust, scalable cloud solutions. With a focus on domain-driven design and clean architecture, I help organizations transform their business requirements into efficient technical implementations.
 

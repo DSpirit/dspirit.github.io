@@ -37,5 +37,4 @@ Below you'll find all my articles on cloud architecture, .NET development, domai
 Stay up to date with my latest articles and projects:
 
 - Subscribe to my [RSS feed]({{ "/feed.xml" | relative_url }})
-- Follow me on [Twitter](https://twitter.com/wendelinniesl)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/wendelin-niesl-676442138/)
