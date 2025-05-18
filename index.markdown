@@ -5,14 +5,12 @@
 layout: home
 ---
 
-# dsdev - Wendelin's Blog
+Hi, I'm Wendelin!
 
-:book: Hi, I'm Wendelin!
+As a Cloud Solution Architect specializing in C# and modern Microsoft technologies, I design scalable and maintainable solutions in the cloud. I'm passionate about Domain-driven Design, using it to model complex business processes and create sustainable software architectures.
 
-:computer: As a Cloud Solution Architect specializing in C# and modern Microsoft technologies, I design scalable and maintainable solutions in the cloud. I'm passionate about Domain-driven Design, using it to model complex business processes and create sustainable software architectures.
+Music is a big part of my life—so I love working with the Spotify API to build innovative apps around music and playlists. On this blog, I share insights, best practices, and inspiration about cloud architecture, .NET, DDD, and exciting API projects.
 
-:musical_note: Music is a big part of my life—so I love working with the Spotify API to build innovative apps around music and playlists. On this blog, I share insights, best practices, and inspiration about cloud architecture, .NET, DDD, and exciting API projects.
+I'm passionate about platform engineering and DevOps, and I love to share my knowledge with the community. I believe in the power of open source and collaboration, and I'm always looking for new ways to contribute and learn from others.
 
-:rocket: I'm passionate about platform engineering and DevOps, and I love to share my knowledge with the community. I believe in the power of open source and collaboration, and I'm always looking for new ways to contribute and learn from others.
-
-:star: Enjoy reading!
+Enjoy reading!
